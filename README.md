@@ -107,7 +107,7 @@ Content-Type: application/json
 
 {
   "email": "admin",
-  "password": "admin"
+  "password": "1234"
 }
 
 
