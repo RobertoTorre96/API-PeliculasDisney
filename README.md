@@ -80,8 +80,8 @@ Usuarios de prueba:
   
 | Usuario | Password | Rol   |
 |---------|----------|-------|
-| admin   | admin    | ADMIN |
-| user    | user     | USER  |
+| admin   | 1234    | ADMIN |
+| user    | 1234     | USER  |
 
 Un ADMIN puede crear más usuarios.
 
