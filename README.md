@@ -154,5 +154,4 @@ Edmundo Roberto Torre
 GitHub
 https://github.com/RobertoTorre96
 
-✉️ Contacto: edmundo.roberto@email.com
-
+✉️ Contacto: torreroberto1996@gmail.com
