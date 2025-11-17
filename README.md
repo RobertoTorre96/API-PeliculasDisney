@@ -56,7 +56,7 @@ Los usuarios USER solo tienen acceso a GET.
 
 🧪 JUnit
 
-🐳 Docke
+🐳 Docker
 
 
 🚀 Instalación
