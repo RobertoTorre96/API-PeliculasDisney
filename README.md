@@ -8,7 +8,7 @@ Solo ADMIN puede crear o actualizar entidades.
 Un usuario con rol ADMIN puede crear más usuarios y entidades.
 Los usuarios USER solo tienen acceso a GET.
 
-✅ Incluye MapStruct, excepciones personalizadas y contraseñas encriptadas con BCrypt.
+✅ Incluye MapStruct para el mapeo con DTOs, excepciones personalizadas y contraseñas encriptadas con BCrypt.
 
 ✨ Características
 
